@@ -50,7 +50,7 @@ export default function Login() {
 
         <LogInContainer>
             <ContentWrpper>
-                <HeaderText>Log In</HeaderText>
+                <HeaderText>User Login</HeaderText>
                 <InputText type="text" placeholder=' Username' />
                 <InputText type="password" placeholder=' Password' />
                 <LoginButton>Log In</LoginButton>
